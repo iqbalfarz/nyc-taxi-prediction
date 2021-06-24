@@ -1,6 +1,7 @@
 # NYC-Taxi-prediction
 New York City(NYC) Taxi Demand Prediction using Machine Learning 
-<img src='new_york.gif'>
+<img src='New_york.gif'>
+
 
 ## NOTE: How to run this project?
 <pre>
